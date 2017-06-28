@@ -66,3 +66,5 @@
 
 [github-hosts]: https://raw.githubusercontent.com/racaljk/hosts/master/hosts "hosts on Github"
 [CC-NC-SA-4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
+
+--test at 20170628
